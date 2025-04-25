@@ -22,7 +22,6 @@ Uma aplicação web simples e responsiva para buscar perfis do GitHub. Digite o 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [React Query](https://tanstack.com/query)
 - [Lucide Icons](https://lucide.dev/)
 - API pública do [GitHub](https://api.github.com/users)
 
