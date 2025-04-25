@@ -2,6 +2,8 @@
 
 Uma aplicação web simples e responsiva para buscar perfis do GitHub. Digite o nome de usuário e visualize rapidamente as informações públicas do perfil.
 
+## Screenshot
+
 <img align-items= "center" alt="gabs-projeto" src="public/project.png">
 
 ## Funcionalidades
